@@ -27,9 +27,9 @@ elephantnote是一款笔记应用
 
 界面
 --
-<img src="Screenshot/首页.png" width="200">
+<img src="Screenshots/首页.png" width="200">
 应用主界面显示所有的笔记本
-![](https://github.com/FREELANCER2017/elephantnote/raw/master/Screenshots/生词表编辑.png)
+<img src="Screenshots/首页.png" width="200">
 存储用户的生词
 ![](https://github.com/.../elephantnote/.../Screenshots/用户界面.png)
 
